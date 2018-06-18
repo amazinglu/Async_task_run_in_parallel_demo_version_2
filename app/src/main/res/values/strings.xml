@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">async_task_run_parallel_demo</string>
+    <string name="load_text">load text</string>
+    <string name="load_image">load image</string>
+</resources>
